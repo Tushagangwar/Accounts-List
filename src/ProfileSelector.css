@@ -1,0 +1,51 @@
+.profile-selector {
+    background: #213c36;
+    color: rgb(44, 136, 92);
+    padding: 20px;
+    align-items: center;
+    max-width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+  }
+  input[type="radio"] {
+    background-color: #213c36;
+    align-items: center;
+    margin-left: 250px;
+    height: 20px;
+    width: 20px;
+   
+   
+  }
+  
+  .profiles {
+    margin:40px 40px 40px 40px;
+    color: #fff;
+  }
+  .profile {
+    display: inline-block;
+
+  }
+  .profile_pic{
+    background-color: antiquewhite;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+  }
+ 
+  .add-account-btn {
+    outline: none;
+    border: none;
+    background: none;
+    background-color:#213c36;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  
+  .add-account-btn:hover {
+    color: #87b291;
+  }
+ 
